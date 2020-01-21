@@ -29,7 +29,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/pg/mocks"
+	"github.com/lucbarr/extensions/pg/mocks"
 )
 
 var _ = Describe("PG Extension", func() {

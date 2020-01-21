@@ -31,7 +31,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/redis/mocks"
+	"github.com/lucbarr/extensions/redis/mocks"
 )
 
 var _ = Describe("Redis Extension", func() {

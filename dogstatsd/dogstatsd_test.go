@@ -1,5 +1,5 @@
 // maestro
-// https://github.com/topfreegames/maestro
+// https://github.com/lucbarr/maestro
 //
 // Licensed under the MIT license:
 // http://www.opensource.org/licenses/mit-license
@@ -10,8 +10,8 @@ package dogstatsd_test
 import (
 	"time"
 
-	"github.com/topfreegames/extensions/dogstatsd"
-	"github.com/topfreegames/extensions/dogstatsd/mocks"
+	"github.com/lucbarr/extensions/dogstatsd"
+	"github.com/lucbarr/extensions/dogstatsd/mocks"
 
 	. "github.com/onsi/ginkgo"
 )

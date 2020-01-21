@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/dogstatsd"
+	"github.com/lucbarr/extensions/dogstatsd"
 )
 
 // MetricTypes constants

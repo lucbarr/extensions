@@ -27,7 +27,7 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/mongo/interfaces"
+	"github.com/lucbarr/extensions/mongo/interfaces"
 )
 
 // Client is the struct that connects to PostgreSQL

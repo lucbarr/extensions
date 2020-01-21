@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"github.com/opentracing/opentracing-go"
-	"github.com/topfreegames/extensions/tracing"
+	"github.com/lucbarr/extensions/tracing"
 )
 
 // Trace wraps a Dat/PosgreSQL query and reports it to tracing

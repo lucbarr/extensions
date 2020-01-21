@@ -9,7 +9,7 @@ import (
 	pg "github.com/go-pg/pg"
 	orm "github.com/go-pg/pg/orm"
 	gomock "github.com/golang/mock/gomock"
-	interfaces "github.com/topfreegames/extensions/pg/interfaces"
+	interfaces "github.com/lucbarr/extensions/pg/interfaces"
 	io "io"
 	reflect "reflect"
 )

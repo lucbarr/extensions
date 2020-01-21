@@ -30,8 +30,8 @@ import (
 	raven "github.com/getsentry/raven-go"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/kafka/interfaces"
-	"github.com/topfreegames/extensions/util"
+	"github.com/lucbarr/extensions/kafka/interfaces"
+	"github.com/lucbarr/extensions/util"
 )
 
 // Consumer for getting push requests

@@ -27,8 +27,8 @@ import (
 	"github.com/spf13/viper"
 	"gopkg.in/mgo.v2/bson"
 
-	. "github.com/topfreegames/extensions/mongo"
-	"github.com/topfreegames/extensions/mongo/interfaces"
+	. "github.com/lucbarr/extensions/mongo"
+	"github.com/lucbarr/extensions/mongo/interfaces"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

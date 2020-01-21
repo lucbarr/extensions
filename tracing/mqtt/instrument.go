@@ -29,7 +29,7 @@ import (
 
 	"github.com/eclipse/paho.mqtt.golang"
 	"github.com/opentracing/opentracing-go"
-	"github.com/topfreegames/extensions/tracing"
+	"github.com/lucbarr/extensions/tracing"
 )
 
 // Trace wraps an MQTT request and reports it to tracing

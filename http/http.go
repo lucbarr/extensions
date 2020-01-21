@@ -25,7 +25,7 @@ package http
 import (
 	"net/http"
 
-	tracing "github.com/topfreegames/extensions/tracing/http"
+	tracing "github.com/lucbarr/extensions/tracing/http"
 )
 
 // New creates and instruments an HTTP client

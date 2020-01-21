@@ -24,7 +24,7 @@ package echo
 
 import (
 	"github.com/labstack/echo"
-	techo "github.com/topfreegames/extensions/tracing/echo"
+	techo "github.com/lucbarr/extensions/tracing/echo"
 )
 
 // Echo is the top-level framework instance.

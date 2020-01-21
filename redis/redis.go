@@ -30,8 +30,8 @@ import (
 	"github.com/bsm/redis-lock"
 	"github.com/go-redis/redis"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/redis/interfaces"
-	tredis "github.com/topfreegames/extensions/tracing/redis"
+	"github.com/lucbarr/extensions/redis/interfaces"
+	tredis "github.com/lucbarr/extensions/tracing/redis"
 )
 
 // Client identifies uniquely one redis client with a pool of connections

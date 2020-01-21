@@ -8,7 +8,7 @@ import (
 	context "context"
 	redis "github.com/go-redis/redis"
 	gomock "github.com/golang/mock/gomock"
-	interfaces "github.com/topfreegames/extensions/redis/interfaces"
+	interfaces "github.com/lucbarr/extensions/redis/interfaces"
 	reflect "reflect"
 	time "time"
 )

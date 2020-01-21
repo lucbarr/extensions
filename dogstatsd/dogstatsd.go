@@ -1,5 +1,5 @@
 // maestro
-// https://github.com/topfreegames/maestro
+// https://github.com/lucbarr/maestro
 //
 // Licensed under the MIT license:
 // http://www.opensource.org/licenses/mit-license

@@ -26,7 +26,7 @@ import (
 	"context"
 	"time"
 
-	tracing "github.com/topfreegames/extensions/tracing/dat"
+	tracing "github.com/lucbarr/extensions/tracing/dat"
 	"gopkg.in/mgutz/dat.v2/dat"
 )
 

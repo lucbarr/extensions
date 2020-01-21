@@ -28,7 +28,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/alexcesaro/statsd"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/statsd/interfaces"
+	"github.com/lucbarr/extensions/statsd/interfaces"
 )
 
 // StatsD for sending metrics

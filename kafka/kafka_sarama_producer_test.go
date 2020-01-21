@@ -31,8 +31,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
 	"github.com/spf13/viper"
-	"github.com/topfreegames/extensions/kafka/mocks"
-	"github.com/topfreegames/extensions/util"
+	"github.com/lucbarr/extensions/kafka/mocks"
+	"github.com/lucbarr/extensions/util"
 )
 
 var _ = XDescribe("SyncProducer Extension", func() {

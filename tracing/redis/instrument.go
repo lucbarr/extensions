@@ -25,7 +25,7 @@ package redis
 import (
 	"github.com/go-redis/redis"
 	"github.com/opentracing/opentracing-go"
-	"github.com/topfreegames/extensions/tracing"
+	"github.com/lucbarr/extensions/tracing"
 )
 
 // Instrument adds tracing instrumentation on a Redis client

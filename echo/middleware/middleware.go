@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/labstack/echo"
-	"github.com/topfreegames/extensions/middleware"
+	"github.com/lucbarr/extensions/middleware"
 )
 
 const metricName = "response_time_milliseconds"

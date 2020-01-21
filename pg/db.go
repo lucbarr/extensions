@@ -29,8 +29,8 @@ import (
 
 	pg "github.com/go-pg/pg"
 	"github.com/go-pg/pg/orm"
-	"github.com/topfreegames/extensions/pg/interfaces"
-	tracing "github.com/topfreegames/extensions/tracing/pg"
+	"github.com/lucbarr/extensions/pg/interfaces"
+	tracing "github.com/lucbarr/extensions/tracing/pg"
 )
 
 // DB implements the orm.DB interface with a few tweaks for tracing
