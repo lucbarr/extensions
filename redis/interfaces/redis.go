@@ -56,6 +56,8 @@ type RedisClient interface {
 	RPopLPush(source string, destination string) *redis.StringCmd
 	RPush(key string, values ...interface{}) *redis.IntCmd
 	SAdd(key string, members ...interface{}) *redis.IntCmd
+	Incr(key string) *IntCmd
+	IncrBy(key string, value int64) *IntCmd
 	SCard(key string) *redis.IntCmd
 	SIsMember(key string, member interface{}) *redis.BoolCmd
 	SMembers(key string) *redis.StringSliceCmd
